@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+transformers
+torch
+scikit-learn
+nltk
+spacy
+pandas
+numpy
+matplotlib
+plotly
+requests
+beautifulsoup4
+fuzzywuzzy
+python-Levenshtein
